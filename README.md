@@ -1,5 +1,6 @@
 # tp-sentry
-WORK IN PROGRESS!
+[!CAUTION] WORK IN PROGRESS! Documentation isn't complete and this is an ongoing project. Don't use it yet :)
+
 Are you tired of your kids leaving the TP roll empty for you to discover only once you're in need? The TP Sentry is the solution to your crappy problem!
 
 At the heart of the TP Sentry is an ESP32, which communicates with Home Assistant to report when the TP roll is empty and when it's been refilled. A Time-of-Flight (ToF) ranging sensor is utilized to measure the distance between the sensor and the TP left on the roll. 
